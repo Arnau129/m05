@@ -18,6 +18,8 @@ public class Prueba1 {
         // TODO code application logic here
         
         System.out.println("Primera");
+        
+        System.out.println("Segona");
     }
     
 }
